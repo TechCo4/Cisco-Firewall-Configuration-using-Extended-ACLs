@@ -1,6 +1,9 @@
 # Project: 3-Zone Corporate Firewall Configuration using Extended ACLs
 ## 🚀 Created By: TechCo4
  Implementation of a secure enterprise network architecture using **Cisco Packet Tracer**. This project demonstrates the configuration of a **3-Zone Firewall** (Internal LAN, Demilitarized Zone - DMZ, and External WAN) on a Cisco 4331 Edge Router using Extended Access Control Lists (ACLs) to enforce granular security policies.
+ 
+ <img width="997" height="526" alt="Screenshot 2026-06-07 134134" src="https://github.com/user-attachments/assets/7857d024-afb1-42ff-a2ba-9d662cd20271" />
+
 
 ---
 
